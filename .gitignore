@@ -1,0 +1,15 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuración local de Visual Studio Code
+.vscode/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+venv/
+.venv/
